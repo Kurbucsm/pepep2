@@ -17,5 +17,6 @@ public class Pushpop {
         System.out.println("Valor en la cima "+pila.peek());
         pila.printAllinStack();
     }
-    
+    //fofo gay
+    //david y fofo mis papis
 }
